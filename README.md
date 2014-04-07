@@ -4,7 +4,7 @@ This project provides an inofficial desktop version of the [Cryptocat](https://g
 
 > *Cryptocat is an experimental browser-based chat client for easy to use, encrypted conversations. It aims to make encrypted, private chat easy to use and accessible.* - [Cryptocat](https://github.com/cryptocat/cryptocat)
 
-Cryotocat is brought to the desktop by Roger Wang's [node-webkit](https://github.com/rogerwang/node-webkit).
+Cryptocat is brought to the desktop by Roger Wang's [node-webkit](https://github.com/rogerwang/node-webkit).
 
 > *node-webkit is an app runtime based on Chromium and node.js. You can write native apps in HTML and Javascript with node-webkit.* - [node-webkit](https://github.com/rogerwang/node-webkit)
 
