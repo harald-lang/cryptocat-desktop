@@ -1,0 +1,3 @@
+[submodule "src/cryptocat"]
+	path = src/cryptocat
+	url = ../cryptocat

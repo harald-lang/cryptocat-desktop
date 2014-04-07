@@ -1,0 +1,8 @@
+.DS_Store
+release/
+
+# npm
+node_modules/
+
+npm-debug.log
+/.project

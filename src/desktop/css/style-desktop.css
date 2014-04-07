@@ -1,0 +1,63 @@
+/*
+-------------------
+PRE-DEFINED TAGS
+-------------------
+*/
+body {
+	height: 100%;
+	background: #151520;
+	margin: 0;
+	padding: 0;
+	font-family: 'Helvetica Neue', Helvetica, Arial, Verdana;
+	line-height: 2em;
+	-webkit-user-select: none;
+}
+
+/*
+-------------------
+TITLE BAR
+-------------------
+*/
+div#titleBar {
+	background: #97CEEC; 
+	-webkit-app-region: drag;
+	font-size: 14px;
+	color: #FFF;
+	padding-left: 22px;
+	font-family: 'Monda';
+}
+
+img#close {
+	-webkit-app-region: no-drag;
+	display: inline;
+	height: 16px;
+	float: right;
+	margin: 4px 4px 4px 4px;
+}
+
+img#minimize {
+	-webkit-app-region: no-drag;
+	display: inline;
+	height: 16px;
+	float: right;
+	margin: 4px 2px 4px 4px;
+}
+
+/*
+-------------------
+MAIN WINDOW (BUBBLE)
+-------------------
+*/
+div#bubble {
+	position: relative;
+	z-index: 1;
+	width: 716px;
+	height: 540px;
+	margin: 0.6% auto 0 auto;
+	background: #FFF;
+	border-radius: 0px 0px 0px 0px;
+	box-shadow: 5px 5px #151520;
+	border: 0px solid #151520;
+	padding: 0 0 50px 0;
+	display: none;
+}

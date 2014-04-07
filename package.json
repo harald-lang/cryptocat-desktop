@@ -1,0 +1,35 @@
+{
+  "name": "cryptocat-desktop",
+  "version": "0.1.0",
+  "description": "cryptocat-desktop",
+  "main": "index-desktop.html",
+  "window": {
+    "icon": "img/icon-48.png",
+    "show": true,
+    "toolbar": false,
+    "frame": false,
+    "position": "center",
+    "width": 760,
+    "height": 632,
+    "min_width": 760,
+    "min_height": 632,
+    "max_width": 760,
+    "max_height": 632
+  },
+  "repository": "",
+  "keywords": [
+    "encryption",
+    "crypto",
+    "messaging",
+    "desktop",
+    "communication"
+  ],
+  "private": true,
+  "author": "Harald Lang <harald.lang@gmail.com>",
+  "license": "AGPL3",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "jshint": "*",
+    "cheerio": "*"
+  }
+}
