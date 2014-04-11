@@ -1,4 +1,4 @@
-all: update desktop
+all: desktop
 
 dev: devtools desktop
 

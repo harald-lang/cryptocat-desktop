@@ -20,8 +20,10 @@ Currently, we only provide a Windows version. A Linux version will be available 
 ![Screenshot](https://raw.githubusercontent.com/harald-lang/cryptocat-desktop/master/screenshot1.png)
 
 #### Prebuilt binaries
-* Windows executable: [ZIP](https://dl.dropboxusercontent.com/u/245524/cryptocat-desktop/cryptocat-desktop-win_20140407.zip)
-* node-webkit package (requires a local node-webkit runtime environment): [NW](https://dl.dropboxusercontent.com/u/245524/cryptocat-desktop/cryptocat_20140407.nw)
+We provide prebuilt binaries as Windows executables and as node-webkit package. The latter requires a locally installed node-webkit runtime environment. 
+
+**[Download Cryptocat Desktop Client](https://github.com/harald-lang/cryptocat-desktop/releases)**
+
 
 #### Build
 
